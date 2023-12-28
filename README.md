@@ -1,0 +1,1 @@
+In this project i use laravel, laravel components, laravel models, tailwind css, mysql and more. Basic CRUD application where you can upload files and there i used many-to-many relationships between models.
